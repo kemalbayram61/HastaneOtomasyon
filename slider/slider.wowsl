@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>7.2</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FullScreen>false</FullScreen>
+            <GalleryName>slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>glass_parallax,collage,kenburns,rotate,domino,basic_linear,stack_vertical</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>900</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/animated/</ImageTemplate>
+            <ImageTemplateName>Animated</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Kemal/Desktop/12-Kemal Bayram,82-Enes Demir/slider/iframe_slider.html</PublishFileName>
+            <PublishIndex>iframe_slider.html</PublishIndex>
+            <PublishPath>C:/Users/Kemal/Desktop/12-Kemal Bayram,82-Enes Demir/slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>57</SlideshowDelay>
+            <SlideshowDuration>15</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateFont>Dosis</TemplateFont>
+            <TemplateName>animated</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Kemal/Desktop/12-Kemal Bayram,82-Enes Demir/slider/1.jpg</url>
+                <title>1</title>
+                <filesize>145557</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kemal/Desktop/12-Kemal Bayram,82-Enes Demir/slider/2.jpg</url>
+                <title>2</title>
+                <filesize>147720</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kemal/Desktop/12-Kemal Bayram,82-Enes Demir/slider/3.jpg</url>
+                <title>3</title>
+                <filesize>128811</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kemal/Desktop/12-Kemal Bayram,82-Enes Demir/slider/4.jpg</url>
+                <title>4</title>
+                <filesize>140116</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Kemal/Desktop/12-Kemal Bayram,82-Enes Demir/slider/5.jpg</url>
+                <title>5</title>
+                <filesize>139966</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
